@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.exe
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.deps.json
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.dll
+C:\Users\fic\Desktop\Andre\atividade-fun-es\bin\Debug\netcoreapp3.1\atividade-fun-es.pdb
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.dll
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.pdb
+C:\Users\fic\Desktop\Andre\atividade-fun-es\obj\Debug\netcoreapp3.1\atividade-fun-es.genruntimeconfig.cache
